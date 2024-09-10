@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18e0f0b3-6ff3-4bda-b075-053c34891fac" name="Changes" comment="Vending machines code file rename">
-      <change afterPath="$PROJECT_DIR$/code_files/coderun_coin_collector.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="18e0f0b3-6ff3-4bda-b075-053c34891fac" name="Changes" comment="Coderun turtle racing/coin collector task solution">
+      <change afterPath="$PROJECT_DIR$/code_files/coderun_knights_move.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testing_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/testing_file.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,51 +23,52 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "history": [
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
     {
-      "state": "OPEN"
+      &quot;state&quot;: &quot;OPEN&quot;
     }
   ],
-  "lastFilter": {
-    "state": "OPEN"
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="ff90f864-4c5d-4714-8b08-a45503c82cb6" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/HalfPunch/yandex-contest-code-files.git",
-    "accountId": "ff90f864-4c5d-4714-8b08-a45503c82cb6"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/HalfPunch/yandex-contest-code-files.git&quot;,
+    &quot;accountId&quot;: &quot;ff90f864-4c5d-4714-8b08-a45503c82cb6&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2lmmMoDNSkzI19PFFtTNmAxhufX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.coderun_coin_collector.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.testing_file.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.coderun_coin_collector.executor&quot;: &quot;Run&quot;,
+    &quot;Python.coderun_knights_move.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testing_file.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\matvey\PycharmProjects\yandex-contest-code-files" />
       <recent name="C:\Users\matvey\PycharmProjects\yandex-contest-code-files\code_files" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.coderun_coin_collector">
+  <component name="RunManager" selected="Python.coderun_knights_move">
     <configuration name="coderun_coin_collector" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="yandex-contest-code-files" />
       <option name="ENV_FILES" value="" />
@@ -84,6 +83,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code_files/coderun_coin_collector.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="coderun_knights_move" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yandex-contest-code-files" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code_files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code_files/coderun_knights_move.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,6 +159,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.coderun_knights_move" />
         <item itemvalue="Python.coderun_coin_collector" />
         <item itemvalue="Python.testing_file" />
       </list>
@@ -202,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725794810538</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Coderun turtle racing/coin collector task solution">
+      <option name="closed" value="true" />
+      <created>1725983968588</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725983968588</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -211,7 +241,8 @@
     <MESSAGE value="Trying to understand user differentiation on commit author&#10;second try to fix the problem" />
     <MESSAGE value="Vending machines task try&#10;Lying processors task try&#10;Plus testing file and IO files" />
     <MESSAGE value="Vending machines code file rename" />
-    <option name="LAST_COMMIT_MESSAGE" value="Vending machines code file rename" />
+    <MESSAGE value="Coderun turtle racing/coin collector task solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Coderun turtle racing/coin collector task solution" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
